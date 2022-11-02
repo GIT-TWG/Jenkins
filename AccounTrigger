@@ -1,0 +1,6 @@
+/* 
+demo purpose
+*/
+trigger AccountTrigger on Account(before insert){
+    
+}
